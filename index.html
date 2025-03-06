@@ -4,47 +4,68 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="styleSheet" href="./styles/base.css">
+    <link rel="stylesheet" href="./styles/base.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <meta content="" name="Description">
     <meta content="author" name="Jeancy Mpoyi">
-    <link rel="styleSheet" href="./styles/menu.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/menu.css">
+    <link rel="stylesheet" href="./styles/index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
-        <nav>
-            <div class="profile">
-                <img src="./images/jeancy.jpg">
-            </div>
+        <div class="header-top">
+            <img class="profile-image" src="./images/jeancy.jpg" alt="Profile Image">
+            <button class="menu-btn" id="menu-btn">&#9776;</button>
+        </div>
+    
+        <nav class="nav-menu" id="nav-menu">
             <ul>
-                <li><a href="#" >home</a></li>
-                <li><a href="#" >Chamber</a></li>
-                <li><a href="#" >Github Profile</a></li>
-                <li><a href="#" >linkedIN</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Chamber</a></li>
+                <li><a href="#">Github Profile</a></li>
+                <li><a href="#">LinkedIn</a></li>
             </ul>
         </nav>
-      
     </header>
+    
     <main>
         <h1>Home</h1>
-        <section>
+        <div class="card-grid">
+            <section class="card">
+                <h1>Course Work</h1>
+                <img src="./images/courses.png" alt="Courses">
+            </section>
+            <section class="card">
+                <h1>Lubumbashi, Town</h1>
+                <img class="image-city" src="./images/lubumbashi.jpg" alt="Lubumbashi">
+            </section>
+            <section class="card">
+                <h1>Web & Computer Programming Certificate</h1>
+                <div class="course">
+                    <span>All</span>
+                    <span>CSE</span>
+                    <span>WDD</span>
+                </div>
 
-        </section>
-        <section>
-
-        </section>
-        <section>
-
-        </section>
-
+                <div class="courses-items">
+                    <span>CSE110</span>
+                    <span>CSE130</span>
+                    <span>CSE111</span>
+                    <span>CSE210</span>
+                    <span>CSE131</span>
+                    <span >CSE231</span>
+                </div>
+            </section>
+        </div>
     </main>
-    <footer>
-        <p>Jeancy Mpoyi , Democratic ...</p>
-        <span id = "currentyear"></span>
 
+    <footer>
+        <p>Jeancy Mpoyi, Democratic Republic of Congo</p>
+        <span id="currentyear"></span>
     </footer>
-    <script></script>
+
+    <script src="./scripts/menu-humberger.js"></script>
 </body>
 </html>
