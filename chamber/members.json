@@ -13,7 +13,7 @@
       "address": "45 Renewable Drive, Solar Town",
       "phone": "+1 (555) 987-6543",
       "website": "https://www.greenenergy.com",
-      "image": "./images/buiness.webp",
+      "image": "./images/Business1.webp",
       "membership_level": 2,
       "description": "Sustainable energy solutions for a greener future."
     },
@@ -22,7 +22,7 @@
       "address": "10 Market Square, Finance City",
       "phone": "+1 (555) 234-6789",
       "website": "https://www.financetrust.com",
-      "image": "./images/buiness.webp",
+      "image": "./images/business2.webp",
       "membership_level": 1,
       "description": "Your trusted partner in banking and financial services."
     },
@@ -31,7 +31,7 @@
       "address": "78 Highway Road, Auto Town",
       "phone": "+1 (555) 456-7890",
       "website": "https://www.autodrive.com",
-      "image": "./images/buiness.webp",
+      "image": "./images/business4.webp",
       "membership_level": 3,
       "description": "Quality vehicles and auto services."
     },
@@ -40,7 +40,7 @@
       "address": "56 Wellness Ave, Health City",
       "phone": "+1 (555) 654-3210",
       "website": "https://www.healthfirst.com",
-      "image": "./images/buiness.webp",
+      "image": "./images/business5.webp",
       "membership_level": 2,
       "description": "Providing top-notch healthcare solutions."
     },
@@ -49,7 +49,7 @@
       "address": "99 Learning Lane, Knowledge Town",
       "phone": "+1 (555) 321-9876",
       "website": "https://www.edusmart.com",
-      "image": "./images/buiness.webp",
+      "image": "./images/business5.webp",
       "membership_level": 1,
       "description": "Innovative education for the future."
     },
