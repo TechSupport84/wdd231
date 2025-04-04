@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Central Park",
+      "address": "123 Greenway Blvd",
+      "description": "A large public park offering walking trails, picnic areas, and a lake.",
+      "image": "./images/news/pexels-fotios-photos-734973.webp"
+    },
+    {
+      "name": "City Museum",
+      "address": "456 History Ln",
+      "description": "A museum showcasing the rich history and culture of the city.",
+      "image": "./images/news/pexels-samandgos-709552.webp"
+    },
+    {
+      "name": "Sunrise Library",
+      "address": "789 Bookworm St",
+      "description": "A community library with a vast collection of books and digital resources.",
+      "image": "./images/news/pexels-luis-gomes-166706-546819.webp"
+    },
+    {
+      "name": "Riverwalk Market",
+      "address": "321 Riverbend Ave",
+      "description": "A lively market with local vendors, food trucks, and handmade goods.",
+      "image": "./images/news/pexels-samandgos-709552.webp"
+    },
+    {
+      "name": "Adventure Water Park",
+      "address": "654 Splash Ct",
+      "description": "A family-friendly water park with slides, lazy river, and splash zones.",
+      "image": "./images/news/pexels-sevenstormphotography-1604991.webp"
+    },
+    {
+      "name": "Grandview Theater",
+      "address": "987 Broadway Blvd",
+      "description": "A historic theater presenting plays, concerts, and film festivals.",
+      "image": "./images/news/pexels-tree-lee-1479554-3136403.webp"
+    },
+    {
+      "name": "Mountain Trailhead",
+      "address": "159 Summit Rd",
+      "description": "Popular hiking trail with scenic overlooks and wildlife sightings.",
+      "image": "./images/news/pexels-visualmixtapezllc-7855163.webp"
+    },
+    {
+      "name": "Tech Innovation Hub",
+      "address": "753 Silicon St",
+      "description": "A co-working space and startup incubator for tech entrepreneurs.",
+      "image": "./images/news/pexels-sevenstormphotography-1604991.webp"
+    },
+    {
+      "name": "Harmony Gardens",
+      "address": "852 Bloom Dr",
+      "description": "Botanical gardens with seasonal flower displays and guided tours.",
+      "image": "./images/news/pexels-samandgos-709552.webp"
+    }
+  ]
+  
